@@ -10,3 +10,8 @@
   color: inherit;
 }
 
+@media (max-width: 1023px) {
+  .footer {
+    margin-top: 200px;
+  }
+}
